@@ -20,4 +20,4 @@ This project is the final project of Udemy's "The Complete JavaScript Course 202
 
 ## Website
 
-You can access the live version of this project at [forkify-nipul](https://forkify-nipul.netlify.app)
+You can access the live version of this project at [forkify-nipul](https://forkify-nipul.netlify.app)!
