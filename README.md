@@ -1,6 +1,6 @@
 # Forkify-nipul
 
-This project is the final project of Udemy's "The Complete JavaScript Course 2023: From Zero to Expert!" by Jonas Schmedtmann. It is a web application for finding and managing recipes. With Forkify-nipul, you can explore over 1,000,000 recipes, add your own recipes, and bookmark your favorite recipes. Additionally, you can check the ingredient quantities based on the number of servings for each recipe.
+This project is the final project of Udemy's "The Complete JavaScript Course 2023: From Zero to Expert!" by Jonas Schmedtmann. It is a web application for finding and managing recipes. With [forkify-nipul](https://forkify-nipul.netlify.app), you can explore over 1,000,000 recipes, add your own recipes, and bookmark your favorite recipes. Additionally, you can check the ingredient quantities based on the number of servings for each recipe.
 
 ## Key Features
 
