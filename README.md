@@ -17,3 +17,7 @@ This project is the final project of Udemy's "The Complete JavaScript Course 202
 
 - Owner: Jonas Schmedtmann
 - Version Owner: Nipul Mallikarachchi
+
+## Website
+
+You can access the live version of this project at [Forkify-nipul](https://forkify-nipul.netlify.app)
