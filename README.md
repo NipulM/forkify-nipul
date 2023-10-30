@@ -15,8 +15,8 @@ This project is the final project of Udemy's "The Complete JavaScript Course 202
 
 ## Authors
 
-- Owner: Jonas Schmedtmann
-- Version Owner: Nipul Mallikarachchi
+- **Original Project by:** Jonas Schmedtmann
+- **Recreated by:** Nipul Mallikarachchi
 
 ## Website
 
